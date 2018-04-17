@@ -1,6 +1,1 @@
-test this is a test
-
-test this is a test
-test this is a test
-
-test this is a test
+this is a sample test file to be uploaded to opswat for scanning
